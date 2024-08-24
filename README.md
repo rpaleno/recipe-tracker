@@ -3,8 +3,8 @@ React-based recipe tracker featuring GET and POST endpoints for creating and vie
 
 # Demo
 
-<img width="1242" alt="Screenshot 2024-08-23 at 7 16 39 PM" src="https://github.com/user-attachments/assets/56a46e31-d3ef-4c06-b7cc-dea3ce165623">
+<img width="1242" alt="Screenshot 2024-08-23 at 7 16 39 PM" src="https://github.com/user-attachments/assets/0f0b57c3-3489-495f-94fe-2d903f826b96">
 
-<img width="759" alt="Screenshot 2024-08-23 at 7 20 14 PM" src="https://github.com/user-attachments/assets/08f8bec0-aead-46a8-b1d3-318b6d032be8">
+<img width="759" alt="Screenshot 2024-08-23 at 7 20 14 PM" src="https://github.com/user-attachments/assets/9d20ffa6-4dc1-426e-a65d-1f6daeec5a11">
 
-<img width="1241" alt="Screenshot 2024-08-23 at 7 20 34 PM" src="https://github.com/user-attachments/assets/9a5679df-4a77-48bb-8edd-2572877e67ac">
+<img width="1241" alt="Screenshot 2024-08-23 at 7 20 34 PM" src="https://github.com/user-attachments/assets/970fc5ff-9944-401b-b196-e686272853cc">
